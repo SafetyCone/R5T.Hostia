@@ -1,0 +1,4 @@
+R5T.Hostia.Extensions - Extensions library for the Microsoft.Extensions.Hosting package.
+
+Goals
+
